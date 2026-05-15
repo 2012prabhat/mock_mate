@@ -1,36 +1,177 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+✨ Core Features
+🔐 Authentication & User Management
+Secure authentication
+JWT/Auth.js based login system
+Email/password login
+Social login support (Google/GitHub)
+Protected dashboard routes
+User profile management
+🧠 AI Mock Interview System
+AI-generated interview questions
+Dynamic follow-up questions
+Technical interview mode
+Behavioral interview mode
+HR interview mode
+Company-specific interview styles
+Role-specific interview generation
+Supported Interview Roles
+Frontend Developer
+Backend Developer
+Full Stack Developer
+React Developer
+Node.js Developer
+Software Engineer
+Product Manager
+UI/UX Designer
+📄 Resume-Based Interviews
+Resume upload support
+Resume parsing
+AI-generated questions based on resume projects
+Experience-based interview generation
+Skill extraction
+ATS-style resume analysis
+🎙️ AI Voice Interview (Planned Advanced Feature)
+Realtime voice conversation
+Speech-to-text integration
+Text-to-speech AI interviewer
+Human-like AI interviewer interaction
+Voice confidence analysis
+Communication skill evaluation
+💻 Coding Interview Arena
+Integrated code editor
+Real-time coding challenges
+Multiple programming language support
+AI-generated coding questions
+AI hints and explanations
+Complexity analysis
+Code execution support
+Coding interview replay
+📊 AI Feedback & Analytics
+Communication score
+Confidence score
+Technical depth analysis
+Filler-word detection
+Speaking pace analysis
+STAR method evaluation
+Strength & weakness insights
+AI improvement suggestions
+Analytics Dashboard
+Interview history
+Progress tracking
+Performance graphs
+Skill improvement timeline
+Weak topic detection
+Daily/weekly performance stats
+🏢 Company-Specific Interview Modes
 
-## Getting Started
+Interview preparation styles inspired by:
 
-First, run the development server:
+Google
+Amazon
+Microsoft
+Meta
+Startups
+Product companies
+🤖 AI Career Coach
+Personalized interview guidance
+AI-generated improvement suggestions
+Salary negotiation tips
+Self-introduction improvement
+Behavioral answer enhancement
+Career roadmap recommendations
+🌙 Modern UI/UX
+Fully responsive design
+Mobile-first experience
+Dark mode support
+Smooth animations
+Accessible UI components
+Reusable component architecture
+⚡ Performance & Optimization
+Server-side rendering
+Optimized API handling
+Lazy loading
+Image optimization
+Efficient state management
+Fast page load performance
+🛠️ Tech Stack
+Frontend
+Next.js
+TypeScript
+Tailwind CSS
+Framer Motion
+Zustand
+Backend
+Node.js
+MongoDB
+Mongoose
+REST APIs
+Server Actions
+AI & Voice
+OpenAI API
+Google Gemini API
+Deepgram
+AssemblyAI
+Deployment
+Vercel
+MongoDB Atlas
+📁 Project Structure
+mock-mate/
+│
+├── app/
+├── components/
+├── features/
+├── hooks/
+├── lib/
+├── services/
+├── store/
+├── models/
+├── actions/
+├── utils/
+├── types/
+├── public/
+└── styles/
+🚀 Future Enhancements
+AI interviewer avatars
+Video interview support
+Multiplayer mock interviews
+Live peer interviews
+Leaderboards
+AI-generated learning roadmap
+Integrated job recommendations
+Interview scheduling assistant
+AI-powered portfolio review
+🎯 Project Goals
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Mock Mate aims to:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+simulate real interview environments
+help users improve confidence
+provide actionable AI feedback
+improve technical communication skills
+prepare candidates for real-world interviews
+📸 Planned Screens
+Landing Page
+Authentication Pages
+Dashboard
+AI Interview Screen
+Coding Arena
+Resume Analyzer
+Analytics Dashboard
+AI Coach Chat
+Profile & Settings
+📈 Why This Project Matters
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Mock Mate demonstrates:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+production-grade frontend architecture
+AI integration capabilities
+real-world SaaS application development
+scalable component design
+advanced UI/UX engineering
+realtime communication systems
 
-## Learn More
+This project is designed to showcase senior-level frontend engineering and AI product development skills.
 
-To learn more about Next.js, take a look at the following resources:
+👨‍💻 Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with ❤️ using Next.js, TypeScript, AI APIs, and modern frontend technologies.
